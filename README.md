@@ -1,5 +1,5 @@
 # QuantOS-SDK  
-### The Quantum Operating System for Solana ⚡
+### The Quantum Operating System for Solana 
 
 QuantOS-SDK is an **open-source optimization framework** that brings **quantum-inspired computation** to Solana transaction management.  
 It simulates *flux prediction*, *priority fee calibration*, and *transaction window optimization* — providing developers with predictive analytics tools designed to **enhance throughput efficiency** and **optimize transaction execution**.
@@ -9,7 +9,7 @@ It simulates *flux prediction*, *priority fee calibration*, and *transaction win
 
 ---
 
-## 🧠 Core Concepts
+##  Core Concepts
 
 ### Quantum Transaction Optimizer (QTO)
 QuantOS introduces a novel *Quantum Transaction Optimizer* (QTO) layer that uses pseudo-randomized modeling and deterministic algorithms to predict **network flux** and recommend **optimal execution strategies** for Solana transactions.
@@ -22,7 +22,7 @@ Each transaction undergoes an *adaptive fee calculation* via simulated Q-particl
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### JavaScript SDK
 ```bash
